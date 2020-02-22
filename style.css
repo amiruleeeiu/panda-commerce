@@ -37,3 +37,19 @@
 .cat3{
     background-color: blue;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribers{
+    height: 300px;
+    background-color: #fceaef;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+}
